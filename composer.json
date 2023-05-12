@@ -1,5 +1,5 @@
 {
-    "name": "kayemercado/ccs06-login-reg",
+    "name": "KleinMercado/ccs06-Lab-Activty-8",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
@@ -7,8 +7,8 @@
     },
     "authors": [
         {
-            "name": "Kaye Celuch T. Mercado",
-            "email": "mercado.kayeceluch@auf.edu.ph"
+            "name": "Miaka Klein A. Mercado",
+            "email": "mercado.miakaklein@auf.edu.ph"
         }
     ],
     "require": {
